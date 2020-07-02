@@ -12,7 +12,7 @@
 
 
 ```shell
-Edit config/default.json baseUrl with your localhost backend apie
+Edit config/default.json = baseUrl with your localhost backend api
 Edit config/keys_dev with your mongodb database 
 ```
 - Run Backend API
