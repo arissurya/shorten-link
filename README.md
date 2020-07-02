@@ -8,7 +8,7 @@
 
 ### Backend API 
 - Install dependencies
-yarn install
+> yarn install
 
 
 ```shell
@@ -20,12 +20,12 @@ nodemon
 
 ### Front End React
 - Install dependencies (cd to client folder)
-yarn install
+> yarn install
 
 ```shell
 Edit APIURL on src/helper/URL with your localhost backend api
 ```
 
 - Run App cd to client 
-yarn start
+> yarn start
 
