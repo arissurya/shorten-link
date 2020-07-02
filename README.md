@@ -16,7 +16,7 @@ Edit config/default.json baseUrl with your localhost backend apie
 Edit config/keys_dev with your mongodb database 
 ```
 - Run Backend API
-nodemon
+> nodemon
 
 ### Front End React
 - Install dependencies (cd to client folder)
