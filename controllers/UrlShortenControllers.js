@@ -8,6 +8,7 @@ exports.shortenPost = async (req, res ) => {
     
     const { urlLong } = req.body ;
     console.log(req.body, 'backend')
+    
     const baseUrl = config.get('baseUrl')
     
     if(!validUrl.isUri(baseUrl)) {
